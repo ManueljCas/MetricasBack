@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lalom\\source\\repos\\Metricas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3BF069-D5D3-43A9-97C6-01D659D56A9B}|Metricas\\Metricas.csproj|c:\\users\\lalom\\source\\repos\\metricas\\metricas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3BF069-D5D3-43A9-97C6-01D659D56A9B}|Metricas\\Metricas.csproj|solutionrelative:metricas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3BF069-D5D3-43A9-97C6-01D659D56A9B}|Metricas\\Metricas.csproj|c:\\users\\lalom\\source\\repos\\metricas\\metricas\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3BF069-D5D3-43A9-97C6-01D659D56A9B}|Metricas\\Metricas.csproj|solutionrelative:metricas\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3BF069-D5D3-43A9-97C6-01D659D56A9B}|Metricas\\Metricas.csproj|c:\\users\\lalom\\source\\repos\\metricas\\metricas\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3BF069-D5D3-43A9-97C6-01D659D56A9B}|Metricas\\Metricas.csproj|solutionrelative:metricas\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3BF069-D5D3-43A9-97C6-01D659D56A9B}|Metricas\\Metricas.csproj|c:\\users\\lalom\\source\\repos\\metricas\\metricas\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3BF069-D5D3-43A9-97C6-01D659D56A9B}|Metricas\\Metricas.csproj|solutionrelative:metricas\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3BF069-D5D3-43A9-97C6-01D659D56A9B}|Metricas\\Metricas.csproj|c:\\users\\lalom\\source\\repos\\metricas\\metricas\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3BF069-D5D3-43A9-97C6-01D659D56A9B}|Metricas\\Metricas.csproj|solutionrelative:metricas\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\lalom\\source\\repos\\Metricas\\Metricas\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "Metricas\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\lalom\\source\\repos\\Metricas\\Metricas\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "Metricas\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:41:09.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogService.cs",
+              "DocumentMoniker": "C:\\Users\\lalom\\source\\repos\\Metricas\\Metricas\\Services\\LogService.cs",
+              "RelativeDocumentMoniker": "Metricas\\Services\\LogService.cs",
+              "ToolTip": "C:\\Users\\lalom\\source\\repos\\Metricas\\Metricas\\Services\\LogService.cs",
+              "RelativeToolTip": "Metricas\\Services\\LogService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:40:31.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\lalom\\source\\repos\\Metricas\\Metricas\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Metricas\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\lalom\\source\\repos\\Metricas\\Metricas\\Services\\UserService.cs",
+              "RelativeToolTip": "Metricas\\Services\\UserService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAA3wEUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:39:14.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\lalom\\source\\repos\\Metricas\\Metricas\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Metricas\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\lalom\\source\\repos\\Metricas\\Metricas\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Metricas\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T18:40:24.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lalom\\source\\repos\\Metricas\\Metricas\\Program.cs",
+              "RelativeDocumentMoniker": "Metricas\\Program.cs",
+              "ToolTip": "C:\\Users\\lalom\\source\\repos\\Metricas\\Metricas\\Program.cs",
+              "RelativeToolTip": "Metricas\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T18:32:22.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 703,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

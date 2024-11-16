@@ -1,0 +1,6 @@
+@Metricas_HostAddress = http://localhost:5236
+
+GET {{Metricas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
